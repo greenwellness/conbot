@@ -1,0 +1,18 @@
+
+= Package- / Dependency Managers
+
+== Configuration
+
+Most of the software designated to manage so called packages, dependencies, libraries or just 'bundles' of loosely gathered tid-bits - in one language or another - comes with a pretty decent and elaborate configuration schema. Some historic knowledge on the background of these appliances would explain a lot usually: it was made to full-fill a certain specialized task, maybe two. It had a intention to begin with, usually this is to surpass some earlier (somehow flawed) tool. The flaws of predecessors will often govern the direction in which those tools (obviously since the goals was to surpass them) get developed.
+
+Furthermore there are quite some big differences in how to configure and best utilize these tools, many of them come with dozens - up to near a hundred or more - configuration options, flags, settings and switches. Our goal is not to handle them all here. We are concerned however, with the best practices of using these tools.
+
+A few major aspects:
+
+- Operation of finding packages
+- Operation of installing packages
+- Operation of installing subsequent packages (without version conflicts!)
+- Operation of persisting packages
+- Operation of maintaining/updating packages
+
+- Support operations (chaining scripts, anti-patterns, bootstrappers, init scripts etc.)

@@ -68,6 +68,11 @@ Download and run Composer-Setup.exe, it will install the latest Composer version
 "Composer setup":https://getcomposer.org/Composer-Setup.exe
 
 
+=== Process Control Support (ext-pcntl) on Windows
+
+Process Control support in PHP is not enabled by default. You have to compile the CGI or CLI version of PHP with --enable-pcntl configuration option when compiling PHP to enable Process Control support. Currently, this module will not function on non-Unix platforms (Windows).
+
+So the PHP extension 'PCNTL' (Process Control), required by PHP_Invoker, currently does not function on non-Unix platforms and as such PHP Invoker and other tools which rely on it, won't function on Win platforms.
 
 === Updating
 

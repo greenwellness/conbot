@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/vendor/pdepend/pdepend/src/site/rst/static_reflection/releases/staticReflection-0.1.1.phar" />
+          <root url="phar://$MODULE_DIR$/../wb17/vendor/pdepend/pdepend/src/site/rst/static_reflection/releases/staticReflection-0.1.1.phar" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/vendor/pdepend/pdepend/src/site/rst/static_reflection/releases/staticReflection-0.1.1.phar" />
+          <root url="phar://$MODULE_DIR$/../wb17/vendor/pdepend/pdepend/src/site/rst/static_reflection/releases/staticReflection-0.1.1.phar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../wb17/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/phpdcd" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpmd/phpmd" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/theseer/phpdox" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/n98/junit-xml" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/phpcpd" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/magento-ecg/magniffer" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/zetacomponents/console-tools" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/justinrainbow/json-schema" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/theseer/fxsl" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/theseer/directoryscanner" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/pimple/pimple" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phploc/phploc" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/magento-ecg/coding-standard" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/squizlabs/php_codesniffer" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/git" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/finder-facade" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/magento-ecg/magento-finder" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/pdepend/pdepend" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/silex/silex" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/fzaninotto/faker" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/instaclick/php-webdriver" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/zetacomponents/base" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/magento-hackathon/magento-composer-installer" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/theseer/fdomdocument" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/seld/jsonlint" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../wb17/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/phpdcd" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpmd/phpmd" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/theseer/phpdox" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/n98/junit-xml" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/phpcpd" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/magento-ecg/magniffer" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/zetacomponents/console-tools" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/justinrainbow/json-schema" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/theseer/fxsl" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/theseer/directoryscanner" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/pimple/pimple" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phploc/phploc" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/magento-ecg/coding-standard" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/squizlabs/php_codesniffer" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/git" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/finder-facade" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/magento-ecg/magento-finder" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/pdepend/pdepend" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/silex/silex" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/fzaninotto/faker" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/instaclick/php-webdriver" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/zetacomponents/base" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/magento-hackathon/magento-composer-installer" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/theseer/fdomdocument" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../wb17/vendor/seld/jsonlint" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="sass-stdlib" level="application" />
+  </component>
+</module>
+

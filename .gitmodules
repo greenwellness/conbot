@@ -61,3 +61,24 @@
 [submodule "submodules/enhanced-admin-grids"]
 	path = submodules/enhanced-admin-grids
 	url = https://github.com/mage-eag/mage-enhanced-admin-grids.git
+[submodule "submodules/translate-mage-nl-dutch"]
+	path = submodules/translate-mage-nl-dutch
+	url = https://github.com/ho-nl/Ho_nl_NL.git
+[submodule "doc/examples/mage-behat"]
+	path = doc/examples/mage-behat
+	url = https://github.com/fooman/MageBehatExamples.git
+[submodule "doc/examples/mage-mink-behat"]
+	path = doc/examples/mage-mink-behat
+	url = https://github.com/Schrank/mage-attack.git
+[submodule "submodules/mage-behat"]
+	path = submodules/mage-behat
+	url = https://github.com/magento-hackathon/MageBehat.git
+[submodule "submodules/magento-lite"]
+	path = submodules/magento-lite
+	url = https://github.com/colinmollenhour/magento-lite
+[submodule "submodules/mtool"]
+	path = submodules/mtool
+	url = https://github.com/dankocherga/MTool.git
+[submodule "submodules/magetool"]
+	path = submodules/magetool
+	url = https://github.com/alistairstead/MageTool
