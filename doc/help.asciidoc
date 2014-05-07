@@ -1,0 +1,23 @@
+
+
+The following types of documentation / sources for usual open-source software information, is commonly found in a wide range of papers, web sites and pages. As such, I've catogorized them according to their chronological positions as the come along in the knowledge aquiring and synthesis phases of any new exploration or simply put:
+
+1. First we arrive at a portal for a product, the so-called project homepage. This might be a SourceForge project page, one at GitHub or provided by own (company) hosting. Usually you will only find hyperlinks here but for good citizenship it's where we start and include this.
+
+2. Source code and/or binary executable (installer/stand-alone portable) file downloads.
+
+3. Getting started quickly - the shortest possible steps from installation to working setup (may be 3rd party).
+
+4. Frequently Asked Questions, project Wiki articles or Knowledge Base (a bit more in-depth, common issues)
+
+5. User-documentation and official manuals for end-user level information (how to configure, which commands to use).
+
+6. Technical references and developer guides. Full documentation specifics, if it isn't in here. These might also be highly technical HQ blog posts which share key insight in the project architecture.
+
+7. Tutorials and How To's articles and blog posts. Hands-on labs kinda stuff to get practical.
+
+8. Related information - any remaining references for additional, related, resources and equipment online.
+
+
+
+

@@ -34,3 +34,9 @@
 [submodule "submodules/php-composer"]
 	path = submodules/php-composer
 	url = https://github.com/composer/composer.git
+[submodule "submodules/gnu-on-windows"]
+	path = submodules/gnu-on-windows
+	url = https://github.com/bmatzelle/gow.git
+[submodule "submodules/win-console-emulator"]
+	path = submodules/win-console-emulator
+	url = https://github.com/Maximus5/ConEmu.git
