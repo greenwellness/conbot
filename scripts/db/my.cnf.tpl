@@ -1,0 +1,9 @@
+[client]
+host=127.0.0.1
+[mysqld]
+user=root
+port=3306
+password=
+[mysqldump]
+user=root
+password=
