@@ -82,3 +82,252 @@
 [submodule "submodules/magetool"]
 	path = submodules/magetool
 	url = https://github.com/alistairstead/MageTool
+[submodule "submodules/chaos-rnd-mage-cfg-vals"]
+	path = submodules/chaos-rnd-mage-cfg-vals
+	url = https://github.com/astorm/Chaos
+[submodule "submodules/cfglint-validation-tests"]
+	path = submodules/cfglint-validation-tests
+	url = https://github.com/astorm/Configlint
+[submodule "doc/examples/add-pg-to-account"]
+	path = doc/examples/add-pg-to-account
+	url = https://github.com/astorm/CustomerPage
+[submodule "submodules/deployment/magentify-capistrano"]
+	path = submodules/deployment/magentify-capistrano
+	url = https://github.com/alistairstead/Magentify
+[submodule "submodules/interop/mage-angular-app"]
+	path = submodules/interop/mage-angular-app
+	url = https://github.com/Wildhoney/Magento-on-Angular
+[submodule "submodules/cli/wiz"]
+	path = submodules/cli/wiz
+	url = https://github.com/classyllama/Wiz
+[submodule "doc/references/the-right-way"]
+	path = doc/references/the-right-way
+	url = https://github.com/punkstar/magentotherightway.com
+[submodule "submodules/interop/smtp-google-apps"]
+	path = submodules/interop/smtp-google-apps
+	url = https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension
+[submodule "submodules/metrics/extension-quality-judge"]
+	path = submodules/metrics/extension-quality-judge
+	url = https://github.com/NetresearchAppFactory/judge
+[submodule "submodules/debugging/firegento-debug"]
+	path = submodules/debugging/firegento-debug
+	url = https://github.com/firegento/firegento-debug
+[submodule "themes/frontend/mage-infinite-scroll-products"]
+	path = themes/frontend/mage-infinite-scroll-products
+	url = https://github.com/Strategery-Inc/Magento-InfiniteScroll
+[submodule "submodules/social/inchoo-social-connect"]
+	path = submodules/social/inchoo-social-connect
+	url = https://github.com/Marko-M/Inchoo_SocialConnect
+[submodule "submodules/transfer/ho-map-formats-fields"]
+	path = submodules/transfer/ho-map-formats-fields
+	url = https://github.com/ho-nl/Ho_Import
+[submodule "config/rdbms/magento-mysql"]
+	path = config/rdbms/magento-mysql
+	url = https://github.com/magenx/magento-mysql
+[submodule "submodules/testing/mage-ci"]
+	path = submodules/testing/mage-ci
+	url = https://github.com/EcomDev/MageCI
+[submodule "submodules/interop/mage-python-api"]
+	path = submodules/interop/mage-python-api
+	url = https://github.com/openlabs/magento
+[submodule "doc/references/learning-resources"]
+	path = doc/references/learning-resources
+	url = https://github.com/benmarks/magento-resources
+[submodule "submodules/ux/developer-toolbar"]
+	path = submodules/ux/developer-toolbar
+	url = https://github.com/swieczorek/Wee_Developertoolbar
+[submodule "submodules/cli/mage-test-install-spawner"]
+	path = submodules/cli/mage-test-install-spawner
+	url = https://github.com/mzeis/MageSpawner
+[submodule "submodules/ultimate-module-creator"]
+	path = submodules/ultimate-module-creator
+	url = https://github.com/tzyganu/UMC1.9
+[submodule "submodules/mocking/sample-data-gen"]
+	path = submodules/mocking/sample-data-gen
+	url = https://github.com/LimeSoda/LimeSoda_SampleDataGenerator
+[submodule "submodules/ux/mage-markdown"]
+	path = submodules/ux/mage-markdown
+	url = https://github.com/SchumacherFM/Magento-Markdown
+[submodule "doc/examples/ext-sample-readme"]
+	path = doc/examples/ext-sample-readme
+	url = https://github.com/sprankhub/Magento-Extension-Sample-Readme
+[submodule "doc/references/dev-manual"]
+	path = doc/references/dev-manual
+	url = https://github.com/astorm/DeveloperManual
+[submodule "submodules/xml/layout-unremove-tag"]
+	path = submodules/xml/layout-unremove-tag
+	url = https://github.com/astorm/LayoutUnremove
+[submodule "submodules/debugging/dump-layout-via-qrystr"]
+	path = submodules/debugging/dump-layout-via-qrystr
+	url = https://github.com/astorm/LayoutViewer
+[submodule "submodules/transfer/gen-attr-migrate-script"]
+	path = submodules/transfer/gen-attr-migrate-script
+	url = https://github.com/astorm/MagentoAttributeMigrationGenerate
+[submodule "submodules/browser/bookmarklet-get-connectkey"]
+	path = submodules/browser/bookmarklet-get-connectkey
+	url = https://github.com/astorm/MagentoConnectKey
+[submodule "submodules/tar-to-connect-format"]
+	path = submodules/tar-to-connect-format
+	url = https://github.com/astorm/MagentoTarToConnect
+[submodule "submodules/ux/pulse-storm-launcher"]
+	path = submodules/ux/pulse-storm-launcher
+	url = https://github.com/astorm/PulsestormLauncher
+[submodule "submodules/list-modules"]
+	path = submodules/list-modules
+	url = https://github.com/astorm/PulsestormModuleList
+[submodule "submodules/ux/config-search"]
+	path = submodules/ux/config-search
+	url = https://github.com/astorm/SystemConfigurationSearch
+[submodule "themes/better-404"]
+	path = themes/better-404
+	url = https://github.com/astorm/MagentoBetter404
+[submodule "themes/design-fallback"]
+	path = themes/design-fallback
+	url = https://github.com/fbrnc/Aoe_DesignFallback
+[submodule "submodules/cli/help-interactive-console"]
+	path = submodules/cli/help-interactive-console
+	url = https://github.com/amacgregor/mdg_imc
+[submodule "submodules/cli/shell-tools"]
+	path = submodules/cli/shell-tools
+	url = https://github.com/ticean/magento-shell-tools
+[submodule "submodules/logging/firegento-logger"]
+	path = submodules/logging/firegento-logger
+	url = https://github.com/firegento/firegento-logger
+[submodule "submodules/ux/speaking-urls-navlinks"]
+	path = submodules/ux/speaking-urls-navlinks
+	url = https://github.com/Flagbit/Magento-FilterUrls
+[submodule "submodules/optimize/dynamic-cache-to-blocks"]
+	path = submodules/optimize/dynamic-cache-to-blocks
+	url = https://github.com/aligent/CacheObserver
+[submodule "submodules/metrics/mage-monitor"]
+	path = submodules/metrics/mage-monitor
+	url = https://github.com/magento-hackathon/Hackathon_MageMonitoring
+[submodule "doc/references/chef-cookbook"]
+	path = doc/references/chef-cookbook
+	url = https://github.com/yevgenko/cookbook-magento
+[submodule "submodules/metrics/store-overview"]
+	path = submodules/metrics/store-overview
+	url = https://github.com/2Boys1Shop/Twoboysoneshop_Configr
+[submodule "submodules/debugging/config-diff"]
+	path = submodules/debugging/config-diff
+	url = https://github.com/techdivision/TechDivision_SystemConfigDiff
+[submodule "config/websrv/htaccess-config"]
+	path = config/websrv/htaccess-config
+	url = https://github.com/Creare/magento-htaccess
+[submodule "submodules/xml/importer-framework"]
+	path = submodules/xml/importer-framework
+	url = https://github.com/AOEmedia/Aoe_Import
+[submodule "submodules/interop/google-tag-manager"]
+	path = submodules/interop/google-tag-manager
+	url = https://github.com/CVM/Magento_GoogleTagManager
+[submodule "submodules/interop/java-connector"]
+	path = submodules/interop/java-connector
+	url = https://github.com/magja/magja
+[submodule "submodules/permissions/require-customer-login"]
+	path = submodules/permissions/require-customer-login
+	url = https://github.com/jreinke/magento-require-login
+[submodule "submodules/marketing/remind-customers-whynobuy"]
+	path = submodules/marketing/remind-customers-whynobuy
+	url = https://github.com/Marko-M/Inchoo_OrderReminder
+[submodule "submodules/customer-extension"]
+	path = submodules/customer-extension
+	url = https://github.com/firegento/firegento-customer
+[submodule "submodules/social/fb-opengraph-old"]
+	path = submodules/social/fb-opengraph-old
+	url = https://github.com/thaddeusmt/magento-fb-opengraph
+[submodule "submodules/clean-uninstall-modules"]
+	path = submodules/clean-uninstall-modules
+	url = https://github.com/magento-hackathon/MageTrashApp
+[submodule "submodules/imagery/perfect-watermarks"]
+	path = submodules/imagery/perfect-watermarks
+	url = https://github.com/magento-hackathon/Perfect_Watermarks
+[submodule "submodules/cli/mate"]
+	path = submodules/cli/mate
+	url = https://github.com/peterjaap/mate
+[submodule "submodules/deployment/phing-deployment"]
+	path = submodules/deployment/phing-deployment
+	url = https://github.com/degdigital/Phingento
+[submodule "submodules/packaging/composer-connect20-pkg"]
+	path = submodules/packaging/composer-connect20-pkg
+	url = https://github.com/Flagbit/Magento-Packager
+[submodule "config/php/codesniffer/made-dot-com-rules"]
+	path = config/php/codesniffer/made-dot-com-rules
+	url = https://github.com/madedotcom/phpcs-magento-rules
+[submodule "submodules/social/hackathon-soccommerce"]
+	path = submodules/social/hackathon-soccommerce
+	url = https://github.com/magento-hackathon/Magento-Socialcommerce
+[submodule "submodules/transfer/catalog-import"]
+	path = submodules/transfer/catalog-import
+	url = https://github.com/guidance/magento-catalogimport
+[submodule "doc/examples/mage-grunt-example"]
+	path = doc/examples/mage-grunt-example
+	url = https://github.com/matt-bailey/magento-grunt
+[submodule "submodules/ux/megamenu"]
+	path = submodules/ux/megamenu
+	url = https://github.com/benjy14/MegaMenu
+[submodule "submodules/inventory/scan-items-with-iphone"]
+	path = submodules/inventory/scan-items-with-iphone
+	url = https://github.com/MageHack/stockapp_magento
+[submodule "submodules/reporting/replacement-zend-pdfs-with-phtml"]
+	path = submodules/reporting/replacement-zend-pdfs-with-phtml
+	url = https://github.com/comwrap/magento-comwrap-pdf
+[submodule "submodules/ux/file-picker-io"]
+	path = submodules/ux/file-picker-io
+	url = https://github.com/fbrnc/Aoe_FilePicker
+[submodule "submodules/login-as-customer"]
+	path = submodules/login-as-customer
+	url = https://github.com/ajzele/Inchoo_LoginAsCustomer
+[submodule "submodules/metrics/health-check"]
+	path = submodules/metrics/health-check
+	url = https://github.com/gknoppe-guidance/magecheck
+[submodule "submodules/imagery/adaptive-resize"]
+	path = submodules/imagery/adaptive-resize
+	url = https://github.com/roomine/AdaptiveResize
+[submodule "submodules/marketing/feature-products"]
+	path = submodules/marketing/feature-products
+	url = https://github.com/buric/Inchoo_FeaturedProducts
+[submodule "doc/snippets/mage-snippets"]
+	path = doc/snippets/mage-snippets
+	url = https://github.com/sourcerer-mike/magento-snippets
+[submodule "submodules/blog-excellence"]
+	path = submodules/blog-excellence
+	url = https://github.com/manishiitg/excellence_magento_blog
+[submodule "submodules/interop/rails-storefront"]
+	path = submodules/interop/rails-storefront
+	url = https://github.com/zben/magento-rails
+[submodule "submodules/interop/new-relic"]
+	path = submodules/interop/new-relic
+	url = https://github.com/ProxiBlue/NewRelic
+[submodule "submodules/interop/bitcoin"]
+	path = submodules/interop/bitcoin
+	url = https://github.com/ticean/magento-bitcoin
+[submodule "submodules/seo/pagination"]
+	path = submodules/seo/pagination
+	url = https://github.com/drewhunter/SeoPagination
+[submodule "submodules/optimize/bigpipe-render-after-slow-blocks"]
+	path = submodules/optimize/bigpipe-render-after-slow-blocks
+	url = https://github.com/sitewards/BigPipe
+[submodule "submodules/optimize/perf-tweaks"]
+	path = submodules/optimize/perf-tweaks
+	url = https://github.com/quafzi/magento-performance-tweaks
+[submodule "submodules/metrics/custom-listing"]
+	path = submodules/metrics/custom-listing
+	url = https://github.com/tim-bezhashvyly/CustomListing
+[submodule "submodules/cli/import-cat-via-cli"]
+	path = submodules/cli/import-cat-via-cli
+	url = https://github.com/jreinke/magento-import-categories
+[submodule "submodules/interop/less-css"]
+	path = submodules/interop/less-css
+	url = https://github.com/r8/magento-lesscss
+[submodule "themes/mobile/imobile-2y-old"]
+	path = themes/mobile/imobile-2y-old
+	url = https://github.com/doxikus/imobile
+[submodule "submodules/interop/sass-scss"]
+	path = submodules/interop/sass-scss
+	url = https://github.com/laurent35240/magento-sass
+[submodule "submodules/change-default-attr-sets"]
+	path = submodules/change-default-attr-sets
+	url = https://github.com/Flagbit/Magento-ChangeAttributeSet
+[submodule "submodules/interop/add-actions-to-gmail"]
+	path = submodules/interop/add-actions-to-gmail
+	url = https://github.com/meanbee/gmailactions
