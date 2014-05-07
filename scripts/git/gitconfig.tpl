@@ -1,9 +1,9 @@
 [user]
 	name = Rob Jentzema
-	email = rob.jentzema@gmail.com
+	email = rob@wellnessbon.nl
 [github]
-	user = [GH username]
-	token = [API token from https://github.com/account/admin]
+	user = greenwellness
+	token = ""
 [core]
 	editor = vim
 	whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
