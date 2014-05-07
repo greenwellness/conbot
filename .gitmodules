@@ -1,3 +1,36 @@
 [submodule "submodules/modman-php"]
 	path = submodules/modman-php
 	url = https://github.com/sitewards/modman-php.git
+[submodule "submodules/magento-admin-launcher"]
+	path = submodules/magento-admin-launcher
+	url = https://github.com/jreinke/magento-admin-launcher.git
+[submodule "submodules/magento-stock-movements"]
+	path = submodules/magento-stock-movements
+	url = https://github.com/jreinke/magento-stock-movements.git
+[submodule "submodules/magento-admin-theme"]
+	path = submodules/magento-admin-theme
+	url = https://github.com/jreinke/magento-admin-theme.git
+[submodule "submodules/magento-mirror"]
+	path = submodules/magento-mirror
+	url = https://github.com/LokeyCoding/magento-mirror.git
+[submodule "submodules/mageplus"]
+	path = submodules/mageplus
+	url = https://github.com/mageplus/mageplus
+[submodule "submodules/n98-magerun"]
+	path = submodules/n98-magerun
+	url = https://github.com/netz98/n98-magerun.git
+[submodule "submodules/magento-boilerplate"]
+	path = submodules/magento-boilerplate
+	url = https://github.com/zeljkoprsa/Magento-Boilerplate
+[submodule "submodules/boilerplate-webcomm"]
+	path = submodules/boilerplate-webcomm
+	url = https://github.com/webcomm/magento-boilerplate
+[submodule "submodules/tests-automation-framework"]
+	path = submodules/tests-automation-framework
+	url = https://github.com/magento/taf
+[submodule "submodules/boilerplate-waterlee"]
+	path = submodules/boilerplate-waterlee
+	url = https://github.com/zeljkoprsa/waterlee-boilerplate
+[submodule "submodules/php-composer"]
+	path = submodules/php-composer
+	url = https://github.com/composer/composer.git

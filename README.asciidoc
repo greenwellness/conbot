@@ -2,4 +2,117 @@
 Readme
 ======
 
+== Assumptions
+
+Assumptions is the mother of all FU's but we really can't do without.
+
+- A GNU\Linux or Windows operating system with Bash, Git and common GNU-Utils (1)
+- A running web server (Apache or Nginx) with database (MySQL or MariaDB). I use
+`Xampp` exclusively on both Win/Nix for ease of use.
+- A DNS server (Acrylic is very good) or plain old C:\Windows\system32\etc\driver\hosts
+- A Magento installation (obtainable through here).
+- And of course: PHP.
+
+Additionally Node.js and a Ruby installation would be very handy due to their broad range of
+packages available for (front-end) Mage development.
+
+- Yo (used to be Yeoman, from Twitter)
+- 
+
+== Prerequisites
+
+=== Configure Magento install
+
+Web server must follow symlinks. For Magento, if using template files in a modman module, you must enable "Allow Symlinks" (found under System > Configuration > Advanced > Developer). These are used to share modules between projects via modman-php symbolic links.
+
+NOTE: Windows users beware: only the PHP version will probably work for you due to symlinks and Windows not really knowing them. To link the packages you probably need PS Admin again.
+
+== User environment
+
+I like to keep things simple and follow this config:
+
+#~/.bashrc
+export PATH="${HOME}/bin:$PATH"
+
+
+== Setup
+
+First let's setup a nice and clean working directory structure. We'll keep our tools
+outside the main project, chances are I might want to share them between projects...
+
+parent="/c/xampp/htdocs/www/"
+export PROJECT="$parent/YOUR_PROJECT"
+cd $parent && git clone https://github.com/greenwellness/conbot
+cd conbot && export TOOLS=`pwd`
+
+So we now have $PROJECT and $TOOLS pointing at the main project and toolkit respectively.
+Now ensure you are in the toolkit root folder
+
+cd $TOOLS
+
+And run `./bootstrap.sh`
+
+
+=== PHP
+
+==== Dependency Manager
+
+Download the composer.phar executable or use the installer. You can install Composer to a specific directory by using the --install-dir option and providing a target directory (it can be an absolute or relative path):
+
+curl -sS https://getcomposer.org/installer | php -- --install-dir=$HOME/bin
+
+Windows
+
+Download and run Composer-Setup.exe, it will install the latest Composer version and set up your PATH so that you can just call composer from any directory in your command line.
+
+"Composer setup":https://getcomposer.org/Composer-Setup.exe
+
+
+
+=== Updating
+
+1. Composer: Running php composer.phar self-update or equivalent will update a phar install with the latest version.
+
+
+
+=== Environments and package managers
+
+- JavaScript (server-side): Node.js
+http://nodejs.org/dist/v0.10.28/node-v0.10.28-x86.msi
+
+- Ruby
+**Use Chocolaty!!** I'm serious. Save yourself the heartache of `rvm` or other 'installers', just make life easy and use `cinst ruby1.9`. Use 1.9 for now to be able and use Nokogiri/Bluecloth and a few other ones that don't like Windows too much. Install the devkit too and don't forget rubygems!
+
+cinst ruby1.9
+cinst ruby.devkit.ruby193
+cinst rubygems
+
+You will probably want to switch to PowerShell elevated user for this. After you've installed ruby, you should probably add the following gems to begin with:
+
+gem i rdoc pry bundler rake asciidoctor
+
+
+
+
+
+
+
+=== Build/deployment
+
+
+
+
+
+=== Footnotes
+
+==== Windows Build (tips for tools)
+
+A good advice is to run (low-level, minimalistic) as Windows alternative to Cygwin:
+
+a. Chocolaty package manager (like apt-get for windows)
+b. MinGW32/64 minimalist GNU on Windows
+c. ConEMU terminal emulator (you will need it to switch PowerShell/MinGW a few times)
+d. GNU on Windows Unix tools for Windows (Gow)
+e. (some other toolkit who's name I forgot)
+f. Git for Windows
 
