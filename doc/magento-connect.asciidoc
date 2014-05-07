@@ -1,0 +1,14 @@
+
+
+
+http://connect20.magentocommerce.com/community/Phpro_Translate
+http://connect20.magentocommerce.com/community/Semantium_MSemanticBasic
+http://connect20.magentocommerce.com/community/Fooman_GoogleAnalyticsPlus
+http://connect20.magentocommerce.com/community/BeeShopy_BeeSocial
+http://connect20.magentocommerce.com/community/WebForms
+http://connect20.magentocommerce.com/community/Mpycho_Jquery_Lightboxes
+http://connect20.magentocommerce.com/community/AddShoppers_integration
+http://connect20.magentocommerce.com/community/web_to_print_store_incl_theme
+http://connect20.magentocommerce.com/community/Ebizmarts_MageMonkey
+http://connect20.magentocommerce.com/community/1213
+http://connect20.magentocommerce.com/community/BL_CustomGrid

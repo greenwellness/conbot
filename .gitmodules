@@ -40,3 +40,24 @@
 [submodule "submodules/win-console-emulator"]
 	path = submodules/win-console-emulator
 	url = https://github.com/Maximus5/ConEmu.git
+[submodule "submodules/boilerplate-responsive"]
+	path = submodules/boilerplate-responsive
+	url = https://github.com/redlightblinking/b-responsive.git
+[submodule "submodules/boilerplate-foundation"]
+	path = submodules/boilerplate-foundation
+	url = https://github.com/nandroid/MagentoFoundation.git
+[submodule "submodules/utils-magento"]
+	path = submodules/utils-magento
+	url = https://github.com/akira28/magento-utils.git
+[submodule "submodules/social-inchoo-facebook"]
+	path = submodules/social-inchoo-facebook
+	url = https://github.com/ivanweiler/Inchoo_Facebook.git
+[submodule "submodules/animate-textillate"]
+	path = submodules/animate-textillate
+	url = https://github.com/jschr/textillate.git
+[submodule "submodules/mage-enhancedgrid"]
+	path = submodules/mage-enhancedgrid
+	url = https://github.com/jayelkaake/enhancedgrid.git
+[submodule "submodules/enhanced-admin-grids"]
+	path = submodules/enhanced-admin-grids
+	url = https://github.com/mage-eag/mage-enhanced-admin-grids.git
