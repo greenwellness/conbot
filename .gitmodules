@@ -1,0 +1,3 @@
+[submodule "submodules/modman-php"]
+	path = submodules/modman-php
+	url = https://github.com/sitewards/modman-php.git
