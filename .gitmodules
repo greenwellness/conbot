@@ -61,9 +61,9 @@
 [submodule "submodules/enhanced-admin-grids"]
 	path = submodules/enhanced-admin-grids
 	url = https://github.com/mage-eag/mage-enhanced-admin-grids.git
-[submodule "submodules/regional/locale-mage-nl"]
-	path = submodules/regional/locale-mage-nl
-	url = https://github.com/ho-nl/Ho_nl_NL.git
+;[submodule "submodules/regional/locale-mage-nl"]
+	;path = submodules/regional/locale-mage-nl
+   ; url = https://github.com/ho-nl/Ho_nl_NL.git
 [submodule "doc/examples/mage-behat"]
 	path = doc/examples/mage-behat
 	url = https://github.com/fooman/MageBehatExamples.git
